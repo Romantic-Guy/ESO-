@@ -14,9 +14,12 @@
 4. Diff.lang.csv파일을 '번역 후 데이터 전처리'폴더 내 파이썬 코드를 통해 가공 (폴더 내 파이썬 코드에서 경로를 지정하고 순서대로 실행)
 5. Diff.lang.csv파일과 kr.lang파일을 '데이터 정리'폴더 내 파이썬 코드를 통해 합치고 가공(폴더 내 파이썬 코드에서 경로를 지정하고 순서대로 실행)
 6. EsoExtractData를 통해 다시 csv를 다시 Lang으로 저장
-7. 기존 GameData내에 kr.lang을 번역한 kr.lang으로 교체
+7. 기존 Addons->GameData내에 kr.lang을 번역한 kr.lang으로 교체
 
 
 
 파이썬으로 무언가 작업해본게 처음이라 매우 미숙합니다.(데이터 전처리도 미숙함)
 u45나 u46때 좀더 다듬고 GUI도 써보면서 좀더 쉽게 할 수 있도록 해보겠습니다.
+
+현재 U44까지 진행되었으며 u42는 부분만 빠져 있습니다. 조만간 수정해서 올리겠습니다.
+다운로드 링크 : https://drive.google.com/file/d/1RQz8CmP3o83pXUnRROgfg3enW6deG7s_/view
